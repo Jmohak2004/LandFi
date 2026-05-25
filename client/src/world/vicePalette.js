@@ -1,0 +1,25 @@
+// GTA Vice City / Miami 1980s palette
+export const VICE = {
+  skyTop: '#ff9ecd',
+  skyHorizon: '#ffd89b',
+  skyBottom: '#87ceeb',
+  sun: '#ffeb3b',
+  fog: '#f4a8c8',
+  ocean: '#1a8fb8',
+  oceanDeep: '#0d5f7a',
+  sand: '#f5deb3',
+  asphalt: '#2d2d2d',
+  roadLine: '#fbbf24',
+  sidewalk: '#c4b5a0',
+  grass: '#4ade80',
+  palmTrunk: '#8b4513',
+  palmLeaf: '#228b22',
+  neonPink: '#ff1493',
+  neonCyan: '#00ffff',
+  neonOrange: '#ff8c00',
+  buildingPastels: [
+    '#ff6b9d', '#7dd3fc', '#fcd34d', '#a78bfa', '#fb923c',
+    '#4ade80', '#f472b6', '#38bdf8', '#fde68a', '#c084fc',
+    '#fda4af', '#5eead4', '#fdba74',
+  ],
+};
