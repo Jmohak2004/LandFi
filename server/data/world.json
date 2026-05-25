@@ -1,0 +1,1441 @@
+{
+  "parcels": [
+    {
+      "id": "P-001",
+      "gridX": 0,
+      "gridZ": 0,
+      "position": [
+        -48,
+        0,
+        -48
+      ],
+      "zone": "sky-tower",
+      "price": 3662,
+      "rarity": "legendary",
+      "owner": "user_94nm92ilr",
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Sky Tower Plot 1",
+      "description": "Virtual land in the sky-tower zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-002",
+      "gridX": 0,
+      "gridZ": 1,
+      "position": [
+        -48,
+        0,
+        -36
+      ],
+      "zone": "meta-mall",
+      "price": 640,
+      "rarity": "common",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Meta Mall Plot 2",
+      "description": "Virtual land in the meta-mall zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-003",
+      "gridX": 0,
+      "gridZ": 2,
+      "position": [
+        -48,
+        0,
+        -24
+      ],
+      "zone": "neon-district",
+      "price": 4608,
+      "rarity": "legendary",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Neon District Plot 3",
+      "description": "Virtual land in the neon-district zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-004",
+      "gridX": 0,
+      "gridZ": 3,
+      "position": [
+        -48,
+        0,
+        -12
+      ],
+      "zone": "arcade-block",
+      "price": 2412,
+      "rarity": "rare",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Arcade Block Plot 4",
+      "description": "Virtual land in the arcade-block zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-005",
+      "gridX": 0,
+      "gridZ": 4,
+      "position": [
+        -48,
+        0,
+        0
+      ],
+      "zone": "arcade-block",
+      "price": 2671,
+      "rarity": "rare",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Arcade Block Plot 5",
+      "description": "Virtual land in the arcade-block zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-006",
+      "gridX": 0,
+      "gridZ": 5,
+      "position": [
+        -48,
+        0,
+        12
+      ],
+      "zone": "arcade-block",
+      "price": 4449,
+      "rarity": "legendary",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Arcade Block Plot 6",
+      "description": "Virtual land in the arcade-block zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-007",
+      "gridX": 0,
+      "gridZ": 6,
+      "position": [
+        -48,
+        0,
+        24
+      ],
+      "zone": "cyber-bay",
+      "price": 4680,
+      "rarity": "legendary",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Cyber Bay Plot 7",
+      "description": "Virtual land in the cyber-bay zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-008",
+      "gridX": 0,
+      "gridZ": 7,
+      "position": [
+        -48,
+        0,
+        36
+      ],
+      "zone": "meta-mall",
+      "price": 3811,
+      "rarity": "legendary",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Meta Mall Plot 8",
+      "description": "Virtual land in the meta-mall zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-009",
+      "gridX": 1,
+      "gridZ": 0,
+      "position": [
+        -36,
+        0,
+        -48
+      ],
+      "zone": "arcade-block",
+      "price": 2589,
+      "rarity": "rare",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Arcade Block Plot 9",
+      "description": "Virtual land in the arcade-block zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-010",
+      "gridX": 1,
+      "gridZ": 1,
+      "position": [
+        -36,
+        0,
+        -36
+      ],
+      "zone": "cyber-bay",
+      "price": 4038,
+      "rarity": "legendary",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Cyber Bay Plot 10",
+      "description": "Virtual land in the cyber-bay zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-011",
+      "gridX": 1,
+      "gridZ": 2,
+      "position": [
+        -36,
+        0,
+        -24
+      ],
+      "zone": "cyber-bay",
+      "price": 3670,
+      "rarity": "legendary",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Cyber Bay Plot 11",
+      "description": "Virtual land in the cyber-bay zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-012",
+      "gridX": 1,
+      "gridZ": 3,
+      "position": [
+        -36,
+        0,
+        -12
+      ],
+      "zone": "meta-mall",
+      "price": 1488,
+      "rarity": "common",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Meta Mall Plot 12",
+      "description": "Virtual land in the meta-mall zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-013",
+      "gridX": 1,
+      "gridZ": 4,
+      "position": [
+        -36,
+        0,
+        0
+      ],
+      "zone": "sky-tower",
+      "price": 3629,
+      "rarity": "legendary",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Sky Tower Plot 13",
+      "description": "Virtual land in the sky-tower zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-014",
+      "gridX": 1,
+      "gridZ": 5,
+      "position": [
+        -36,
+        0,
+        12
+      ],
+      "zone": "arcade-block",
+      "price": 689,
+      "rarity": "common",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Arcade Block Plot 14",
+      "description": "Virtual land in the arcade-block zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-015",
+      "gridX": 1,
+      "gridZ": 6,
+      "position": [
+        -36,
+        0,
+        24
+      ],
+      "zone": "neon-district",
+      "price": 1518,
+      "rarity": "common",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Neon District Plot 15",
+      "description": "Virtual land in the neon-district zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-016",
+      "gridX": 1,
+      "gridZ": 7,
+      "position": [
+        -36,
+        0,
+        36
+      ],
+      "zone": "sky-tower",
+      "price": 539,
+      "rarity": "common",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Sky Tower Plot 16",
+      "description": "Virtual land in the sky-tower zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-017",
+      "gridX": 2,
+      "gridZ": 0,
+      "position": [
+        -24,
+        0,
+        -48
+      ],
+      "zone": "neon-district",
+      "price": 1316,
+      "rarity": "common",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Neon District Plot 17",
+      "description": "Virtual land in the neon-district zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-018",
+      "gridX": 2,
+      "gridZ": 1,
+      "position": [
+        -24,
+        0,
+        -36
+      ],
+      "zone": "sky-tower",
+      "price": 4522,
+      "rarity": "legendary",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Sky Tower Plot 18",
+      "description": "Virtual land in the sky-tower zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-019",
+      "gridX": 2,
+      "gridZ": 2,
+      "position": [
+        -24,
+        0,
+        -24
+      ],
+      "zone": "meta-mall",
+      "price": 2948,
+      "rarity": "rare",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Meta Mall Plot 19",
+      "description": "Virtual land in the meta-mall zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-020",
+      "gridX": 2,
+      "gridZ": 3,
+      "position": [
+        -24,
+        0,
+        -12
+      ],
+      "zone": "meta-mall",
+      "price": 2243,
+      "rarity": "rare",
+      "owner": "user_yeqycxd3p",
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Meta Mall Plot 20",
+      "description": "Virtual land in the meta-mall zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-021",
+      "gridX": 2,
+      "gridZ": 4,
+      "position": [
+        -24,
+        0,
+        0
+      ],
+      "zone": "neon-district",
+      "price": 4696,
+      "rarity": "legendary",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Neon District Plot 21",
+      "description": "Virtual land in the neon-district zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-022",
+      "gridX": 2,
+      "gridZ": 5,
+      "position": [
+        -24,
+        0,
+        12
+      ],
+      "zone": "arcade-block",
+      "price": 4476,
+      "rarity": "legendary",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Arcade Block Plot 22",
+      "description": "Virtual land in the arcade-block zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-023",
+      "gridX": 2,
+      "gridZ": 6,
+      "position": [
+        -24,
+        0,
+        24
+      ],
+      "zone": "sky-tower",
+      "price": 2453,
+      "rarity": "rare",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Sky Tower Plot 23",
+      "description": "Virtual land in the sky-tower zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-024",
+      "gridX": 2,
+      "gridZ": 7,
+      "position": [
+        -24,
+        0,
+        36
+      ],
+      "zone": "cyber-bay",
+      "price": 4090,
+      "rarity": "legendary",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Cyber Bay Plot 24",
+      "description": "Virtual land in the cyber-bay zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-025",
+      "gridX": 3,
+      "gridZ": 0,
+      "position": [
+        -12,
+        0,
+        -48
+      ],
+      "zone": "cyber-bay",
+      "price": 1031,
+      "rarity": "common",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Cyber Bay Plot 25",
+      "description": "Virtual land in the cyber-bay zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-026",
+      "gridX": 3,
+      "gridZ": 1,
+      "position": [
+        -12,
+        0,
+        -36
+      ],
+      "zone": "arcade-block",
+      "price": 3221,
+      "rarity": "rare",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Arcade Block Plot 26",
+      "description": "Virtual land in the arcade-block zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-027",
+      "gridX": 3,
+      "gridZ": 2,
+      "position": [
+        -12,
+        0,
+        -24
+      ],
+      "zone": "neon-district",
+      "price": 3109,
+      "rarity": "rare",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Neon District Plot 27",
+      "description": "Virtual land in the neon-district zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-028",
+      "gridX": 3,
+      "gridZ": 3,
+      "position": [
+        -12,
+        0,
+        -12
+      ],
+      "zone": "arcade-block",
+      "price": 4816,
+      "rarity": "legendary",
+      "owner": "0x94605f2661cf5ce23975df0bb33cda21291d0c5c",
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": true,
+      "listPrice": 8000,
+      "name": "Arcade Block Plot 28",
+      "description": "Virtual land in the arcade-block zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-029",
+      "gridX": 3,
+      "gridZ": 4,
+      "position": [
+        -12,
+        0,
+        0
+      ],
+      "zone": "sky-tower",
+      "price": 3574,
+      "rarity": "legendary",
+      "owner": "0x94605f2661cf5ce23975df0bb33cda21291d0c5c",
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Sky Tower Plot 29",
+      "description": "Virtual land in the sky-tower zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-030",
+      "gridX": 3,
+      "gridZ": 5,
+      "position": [
+        -12,
+        0,
+        12
+      ],
+      "zone": "meta-mall",
+      "price": 2865,
+      "rarity": "rare",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Meta Mall Plot 30",
+      "description": "Virtual land in the meta-mall zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-031",
+      "gridX": 3,
+      "gridZ": 6,
+      "position": [
+        -12,
+        0,
+        24
+      ],
+      "zone": "meta-mall",
+      "price": 1255,
+      "rarity": "common",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Meta Mall Plot 31",
+      "description": "Virtual land in the meta-mall zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-032",
+      "gridX": 3,
+      "gridZ": 7,
+      "position": [
+        -12,
+        0,
+        36
+      ],
+      "zone": "meta-mall",
+      "price": 1409,
+      "rarity": "common",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Meta Mall Plot 32",
+      "description": "Virtual land in the meta-mall zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-033",
+      "gridX": 4,
+      "gridZ": 0,
+      "position": [
+        0,
+        0,
+        -48
+      ],
+      "zone": "sky-tower",
+      "price": 2025,
+      "rarity": "rare",
+      "owner": "user_wcjkpcwbk",
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Sky Tower Plot 33",
+      "description": "Virtual land in the sky-tower zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-034",
+      "gridX": 4,
+      "gridZ": 1,
+      "position": [
+        0,
+        0,
+        -36
+      ],
+      "zone": "sky-tower",
+      "price": 2278,
+      "rarity": "rare",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Sky Tower Plot 34",
+      "description": "Virtual land in the sky-tower zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-035",
+      "gridX": 4,
+      "gridZ": 2,
+      "position": [
+        0,
+        0,
+        -24
+      ],
+      "zone": "arcade-block",
+      "price": 4727,
+      "rarity": "legendary",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Arcade Block Plot 35",
+      "description": "Virtual land in the arcade-block zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-036",
+      "gridX": 4,
+      "gridZ": 3,
+      "position": [
+        0,
+        0,
+        -12
+      ],
+      "zone": "meta-mall",
+      "price": 1806,
+      "rarity": "common",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Meta Mall Plot 36",
+      "description": "Virtual land in the meta-mall zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-037",
+      "gridX": 4,
+      "gridZ": 4,
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "zone": "arcade-block",
+      "price": 1852,
+      "rarity": "common",
+      "owner": "0x94605f2661cf5ce23975df0bb33cda21291d0c5c",
+      "building": "gallery",
+      "incomePerHour": 12,
+      "listed": false,
+      "listPrice": null,
+      "name": "Arcade Block Plot 37",
+      "description": "Virtual land in the arcade-block zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-038",
+      "gridX": 4,
+      "gridZ": 5,
+      "position": [
+        0,
+        0,
+        12
+      ],
+      "zone": "sky-tower",
+      "price": 4746,
+      "rarity": "legendary",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Sky Tower Plot 38",
+      "description": "Virtual land in the sky-tower zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-039",
+      "gridX": 4,
+      "gridZ": 6,
+      "position": [
+        0,
+        0,
+        24
+      ],
+      "zone": "sky-tower",
+      "price": 4286,
+      "rarity": "legendary",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Sky Tower Plot 39",
+      "description": "Virtual land in the sky-tower zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-040",
+      "gridX": 4,
+      "gridZ": 7,
+      "position": [
+        0,
+        0,
+        36
+      ],
+      "zone": "sky-tower",
+      "price": 3344,
+      "rarity": "rare",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Sky Tower Plot 40",
+      "description": "Virtual land in the sky-tower zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-041",
+      "gridX": 5,
+      "gridZ": 0,
+      "position": [
+        12,
+        0,
+        -48
+      ],
+      "zone": "meta-mall",
+      "price": 1279,
+      "rarity": "common",
+      "owner": "0x94605f2661cf5ce23975df0bb33cda21291d0c5c",
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": true,
+      "listPrice": 900,
+      "name": "Meta Mall Plot 41",
+      "description": "Virtual land in the meta-mall zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-042",
+      "gridX": 5,
+      "gridZ": 1,
+      "position": [
+        12,
+        0,
+        -36
+      ],
+      "zone": "neon-district",
+      "price": 3394,
+      "rarity": "rare",
+      "owner": "0x94605f2661cf5ce23975df0bb33cda21291d0c5c",
+      "building": "gallery",
+      "incomePerHour": 12,
+      "listed": true,
+      "listPrice": 90000,
+      "name": "Neon District Plot 42",
+      "description": "Virtual land in the neon-district zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-043",
+      "gridX": 5,
+      "gridZ": 2,
+      "position": [
+        12,
+        0,
+        -24
+      ],
+      "zone": "meta-mall",
+      "price": 3430,
+      "rarity": "rare",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Meta Mall Plot 43",
+      "description": "Virtual land in the meta-mall zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-044",
+      "gridX": 5,
+      "gridZ": 3,
+      "position": [
+        12,
+        0,
+        -12
+      ],
+      "zone": "meta-mall",
+      "price": 4272,
+      "rarity": "legendary",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Meta Mall Plot 44",
+      "description": "Virtual land in the meta-mall zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-045",
+      "gridX": 5,
+      "gridZ": 4,
+      "position": [
+        12,
+        0,
+        0
+      ],
+      "zone": "arcade-block",
+      "price": 2769,
+      "rarity": "rare",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Arcade Block Plot 45",
+      "description": "Virtual land in the arcade-block zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-046",
+      "gridX": 5,
+      "gridZ": 5,
+      "position": [
+        12,
+        0,
+        12
+      ],
+      "zone": "meta-mall",
+      "price": 1250,
+      "rarity": "common",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Meta Mall Plot 46",
+      "description": "Virtual land in the meta-mall zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-047",
+      "gridX": 5,
+      "gridZ": 6,
+      "position": [
+        12,
+        0,
+        24
+      ],
+      "zone": "cyber-bay",
+      "price": 1819,
+      "rarity": "common",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Cyber Bay Plot 47",
+      "description": "Virtual land in the cyber-bay zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-048",
+      "gridX": 5,
+      "gridZ": 7,
+      "position": [
+        12,
+        0,
+        36
+      ],
+      "zone": "sky-tower",
+      "price": 4587,
+      "rarity": "legendary",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Sky Tower Plot 48",
+      "description": "Virtual land in the sky-tower zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-049",
+      "gridX": 6,
+      "gridZ": 0,
+      "position": [
+        24,
+        0,
+        -48
+      ],
+      "zone": "neon-district",
+      "price": 1902,
+      "rarity": "common",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Neon District Plot 49",
+      "description": "Virtual land in the neon-district zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-050",
+      "gridX": 6,
+      "gridZ": 1,
+      "position": [
+        24,
+        0,
+        -36
+      ],
+      "zone": "sky-tower",
+      "price": 2448,
+      "rarity": "rare",
+      "owner": "0x94605f2661cf5ce23975df0bb33cda21291d0c5c",
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Sky Tower Plot 50",
+      "description": "Virtual land in the sky-tower zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-051",
+      "gridX": 6,
+      "gridZ": 2,
+      "position": [
+        24,
+        0,
+        -24
+      ],
+      "zone": "cyber-bay",
+      "price": 4326,
+      "rarity": "legendary",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Cyber Bay Plot 51",
+      "description": "Virtual land in the cyber-bay zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-052",
+      "gridX": 6,
+      "gridZ": 3,
+      "position": [
+        24,
+        0,
+        -12
+      ],
+      "zone": "cyber-bay",
+      "price": 1106,
+      "rarity": "common",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Cyber Bay Plot 52",
+      "description": "Virtual land in the cyber-bay zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-053",
+      "gridX": 6,
+      "gridZ": 4,
+      "position": [
+        24,
+        0,
+        0
+      ],
+      "zone": "arcade-block",
+      "price": 4754,
+      "rarity": "legendary",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Arcade Block Plot 53",
+      "description": "Virtual land in the arcade-block zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-054",
+      "gridX": 6,
+      "gridZ": 5,
+      "position": [
+        24,
+        0,
+        12
+      ],
+      "zone": "meta-mall",
+      "price": 3555,
+      "rarity": "legendary",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Meta Mall Plot 54",
+      "description": "Virtual land in the meta-mall zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-055",
+      "gridX": 6,
+      "gridZ": 6,
+      "position": [
+        24,
+        0,
+        24
+      ],
+      "zone": "cyber-bay",
+      "price": 3186,
+      "rarity": "rare",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Cyber Bay Plot 55",
+      "description": "Virtual land in the cyber-bay zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-056",
+      "gridX": 6,
+      "gridZ": 7,
+      "position": [
+        24,
+        0,
+        36
+      ],
+      "zone": "sky-tower",
+      "price": 3718,
+      "rarity": "legendary",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Sky Tower Plot 56",
+      "description": "Virtual land in the sky-tower zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-057",
+      "gridX": 7,
+      "gridZ": 0,
+      "position": [
+        36,
+        0,
+        -48
+      ],
+      "zone": "meta-mall",
+      "price": 1845,
+      "rarity": "common",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Meta Mall Plot 57",
+      "description": "Virtual land in the meta-mall zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-058",
+      "gridX": 7,
+      "gridZ": 1,
+      "position": [
+        36,
+        0,
+        -36
+      ],
+      "zone": "meta-mall",
+      "price": 3124,
+      "rarity": "rare",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Meta Mall Plot 58",
+      "description": "Virtual land in the meta-mall zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-059",
+      "gridX": 7,
+      "gridZ": 2,
+      "position": [
+        36,
+        0,
+        -24
+      ],
+      "zone": "meta-mall",
+      "price": 4974,
+      "rarity": "legendary",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Meta Mall Plot 59",
+      "description": "Virtual land in the meta-mall zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-060",
+      "gridX": 7,
+      "gridZ": 3,
+      "position": [
+        36,
+        0,
+        -12
+      ],
+      "zone": "cyber-bay",
+      "price": 4620,
+      "rarity": "legendary",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Cyber Bay Plot 60",
+      "description": "Virtual land in the cyber-bay zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-061",
+      "gridX": 7,
+      "gridZ": 4,
+      "position": [
+        36,
+        0,
+        0
+      ],
+      "zone": "cyber-bay",
+      "price": 3674,
+      "rarity": "legendary",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Cyber Bay Plot 61",
+      "description": "Virtual land in the cyber-bay zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-062",
+      "gridX": 7,
+      "gridZ": 5,
+      "position": [
+        36,
+        0,
+        12
+      ],
+      "zone": "neon-district",
+      "price": 3110,
+      "rarity": "rare",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Neon District Plot 62",
+      "description": "Virtual land in the neon-district zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-063",
+      "gridX": 7,
+      "gridZ": 6,
+      "position": [
+        36,
+        0,
+        24
+      ],
+      "zone": "arcade-block",
+      "price": 637,
+      "rarity": "common",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Arcade Block Plot 63",
+      "description": "Virtual land in the arcade-block zone. Build events, shops, or games."
+    },
+    {
+      "id": "P-064",
+      "gridX": 7,
+      "gridZ": 7,
+      "position": [
+        36,
+        0,
+        36
+      ],
+      "zone": "cyber-bay",
+      "price": 1783,
+      "rarity": "common",
+      "owner": null,
+      "building": "none",
+      "incomePerHour": 0,
+      "listed": false,
+      "listPrice": null,
+      "name": "Cyber Bay Plot 64",
+      "description": "Virtual land in the cyber-bay zone. Build events, shops, or games."
+    }
+  ],
+  "events": [
+    {
+      "id": "EVT-f7d997a5",
+      "title": "Metaverse Party",
+      "zone": "neon-district",
+      "date": "2026-05-25",
+      "attendees": 378,
+      "revenue": 3389,
+      "host": "0x94605f2661cf5ce23975df0bb33cda21291d0c5c",
+      "parcelId": "P-042"
+    },
+    {
+      "id": "EVT-de45bc24",
+      "title": "Metaverse Party",
+      "zone": "arcade-block",
+      "date": "2026-05-25",
+      "attendees": 477,
+      "revenue": 1161,
+      "host": "0x94605f2661cf5ce23975df0bb33cda21291d0c5c",
+      "parcelId": "P-037"
+    },
+    {
+      "id": "EVT-fc09f898",
+      "title": "noww",
+      "zone": "sky-tower",
+      "date": "2026-05-25",
+      "attendees": 490,
+      "revenue": 1573,
+      "host": "0x94605f2661cf5ce23975df0bb33cda21291d0c5c",
+      "parcelId": "P-029"
+    },
+    {
+      "id": "EVT-4476ecef",
+      "title": "Metaverse Party",
+      "zone": "meta-mall",
+      "date": "2026-05-25",
+      "attendees": 164,
+      "revenue": 2199,
+      "host": "0x94605f2661cf5ce23975df0bb33cda21291d0c5c",
+      "parcelId": "P-041"
+    },
+    {
+      "id": "EVT-001",
+      "title": "Neon Night Market",
+      "zone": "neon-district",
+      "date": "2026-06-15",
+      "attendees": 1240,
+      "revenue": 8500,
+      "host": "system"
+    },
+    {
+      "id": "EVT-002",
+      "title": "Cyber Bay DJ Festival",
+      "zone": "cyber-bay",
+      "date": "2026-07-02",
+      "attendees": 3200,
+      "revenue": 22000,
+      "host": "system"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "64d0b929-7ee7-43e1-b584-85f495ba255b",
+      "type": "buy",
+      "userId": "0x94605f2661cf5ce23975df0bb33cda21291d0c5c",
+      "parcelId": "P-042",
+      "amount": 3394,
+      "timestamp": "2026-05-25T14:01:21.722Z",
+      "from": null,
+      "wallet": "0x94605f2661cf5ce23975df0bb33cda21291d0c5c"
+    },
+    {
+      "id": "509c9c67-8007-488a-a8b6-3b51aeae5d20",
+      "type": "buy",
+      "userId": "0x94605f2661cf5ce23975df0bb33cda21291d0c5c",
+      "parcelId": "P-050",
+      "amount": 2448,
+      "timestamp": "2026-05-25T14:01:10.155Z",
+      "from": null,
+      "wallet": "0x94605f2661cf5ce23975df0bb33cda21291d0c5c"
+    },
+    {
+      "id": "e18c49e0-7aff-4021-bdcc-c15c916d38e7",
+      "type": "buy",
+      "userId": "0x94605f2661cf5ce23975df0bb33cda21291d0c5c",
+      "parcelId": "P-037",
+      "amount": 1852,
+      "timestamp": "2026-05-25T13:49:40.229Z",
+      "from": null,
+      "wallet": "0x94605f2661cf5ce23975df0bb33cda21291d0c5c"
+    },
+    {
+      "id": "c59aa66c-323e-44b5-bf0b-d28f98cc7bf2",
+      "type": "buy",
+      "userId": "0x94605f2661cf5ce23975df0bb33cda21291d0c5c",
+      "parcelId": "P-028",
+      "amount": 4816,
+      "timestamp": "2026-05-25T13:48:18.082Z",
+      "from": null,
+      "wallet": "0x94605f2661cf5ce23975df0bb33cda21291d0c5c"
+    },
+    {
+      "id": "899a43c4-b28f-485b-b092-a98a59e8350b",
+      "type": "buy",
+      "userId": "0x94605f2661cf5ce23975df0bb33cda21291d0c5c",
+      "parcelId": "P-029",
+      "amount": 3574,
+      "timestamp": "2026-05-25T13:48:00.424Z",
+      "from": null,
+      "wallet": "0x94605f2661cf5ce23975df0bb33cda21291d0c5c"
+    },
+    {
+      "id": "0f369b62-331b-432e-a152-2db005842695",
+      "type": "buy",
+      "userId": "0x94605f2661cf5ce23975df0bb33cda21291d0c5c",
+      "parcelId": "P-041",
+      "amount": 1279,
+      "timestamp": "2026-05-25T13:44:29.726Z",
+      "from": null,
+      "wallet": "0x94605f2661cf5ce23975df0bb33cda21291d0c5c"
+    },
+    {
+      "id": "9d762df9-b2e9-4d16-aac7-697d47bd7166",
+      "type": "buy",
+      "userId": "user_yeqycxd3p",
+      "parcelId": "P-020",
+      "amount": 2243,
+      "timestamp": "2026-05-25T13:41:56.086Z",
+      "from": null,
+      "wallet": null
+    },
+    {
+      "id": "d2fa8f25-7601-451a-9111-61ac9dc938e9",
+      "type": "buy",
+      "userId": "user_wcjkpcwbk",
+      "parcelId": "P-033",
+      "amount": 2025,
+      "timestamp": "2026-05-25T13:17:52.068Z",
+      "from": null,
+      "wallet": null
+    },
+    {
+      "id": "ba1b65c4-478e-4f49-9696-62b6be9dc1d5",
+      "type": "buy",
+      "userId": "user_94nm92ilr",
+      "parcelId": "P-001",
+      "amount": 3662,
+      "timestamp": "2026-05-25T13:16:34.109Z",
+      "from": null,
+      "wallet": null
+    }
+  ],
+  "marketStats": {
+    "totalVolume": 25293,
+    "parcelsSold": 9,
+    "activeListings": 3
+  }
+}
